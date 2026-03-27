@@ -4,6 +4,7 @@ To write and execute a program for Go-Back-N protocol-Selective Repeat.
 # EQUIPMENTS REQUIRED:
 Personal Computer Turbo C Compiler
 # PROCEDURE:
+```
 8.	Connect two computers in Wired/Wireless LAN.
 9.	Make sure that two computers are in one network and could able to ping each other.
 10.	In the codeblocker open new c file and type the program.
@@ -11,9 +12,9 @@ Personal Computer Turbo C Compiler
 12.	Execute the program in both server and client.
 13.	Enter the IP address of the remote machine, port address of both local & remote machine and error rate.
 14.	Choose the file and verify the go back protocol operation.
-
+```
 # PROGRAM:
-
+```
 #include<stdio.h> void main()
 {
 
@@ -47,9 +48,11 @@ printf("\n Sending frame %d \n FRAME ACKNOWLEDGED.	\n",j);
 
 printf("\n\nALL FRAME RECIEVED SUCCESSFULLY\n\n");
 }
-OUTPUT:
+```
+# OUTPUT:
 
  
+<img width="1622" height="852" alt="image" src="https://github.com/user-attachments/assets/5c106f98-e48c-4017-ae19-ad2cb75d08bb" />
 
 
 
